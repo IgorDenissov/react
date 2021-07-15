@@ -4,18 +4,3 @@
   grid-template-areas: "h h"
   "nav content";
 }
-.header img {
-  height: 50px;
-}
-.header {
-  background-color: silver;
-  grid-area: h;
-}
-.nav {
-  background-color: aliceblue;
-  grid-area: nav;
-}
-.content {
-  background-color: aqua;
-  grid-area: content;
-}
